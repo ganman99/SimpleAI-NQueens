@@ -1,5 +1,4 @@
-#Berk Kocamanoğlu 210316069
-#Sena Kılınç 210316036
+
 
 from __future__ import print_function
 import random
